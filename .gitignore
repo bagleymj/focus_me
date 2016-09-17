@@ -15,3 +15,8 @@
 /log/*
 !/log/.keep
 /tmp
+
+#ignore swap files and such
+*~
+*.swp
+*.lock
